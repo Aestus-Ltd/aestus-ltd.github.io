@@ -1,0 +1,10 @@
+{
+  "name": "aestus-static-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/configure-pages.mjs",
+    "preview": "node scripts/static-preview.mjs",
+    "verify": "node scripts/verify-pages.mjs"
+  }
+}
