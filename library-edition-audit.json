@@ -1,0 +1,73 @@
+{
+  "checkedOn": "2026-10-27",
+  "scope": "Six new additions. Existing collection is retained as archival reference; its current status has not been comprehensively verified.",
+  "sourceRule": "PDFs downloaded from Archive.org; printed dates and change notices compared with the Army Publishing Directorate or an official Army publication announcement.",
+  "documents": [
+    {
+      "title": "FM 3-0 — Operations (2025)",
+      "id": "089645b0e63896c6",
+      "url": "https://archive.org/download/2025-fm-3-operations/2025%20FM%203%20Operations.pdf",
+      "archiveUrl": "https://archive.org/details/2025-fm-3-operations",
+      "publicationDate": "2025-03-21",
+      "changeDate": null,
+      "editionLabel": "21 March 2025",
+      "verificationUrl": "https://armypubs.army.mil/ProductMaps/PubForm/Details.aspx?PUB_ID=1030750",
+      "md5": "089645b0e63896c6735a854c913f408a"
+    },
+    {
+      "title": "ATP 4-02.11 — Casualty Response, Tactical Combat Casualty Care, and First Aid (2026)",
+      "id": "dd8a4bd58f231c4c",
+      "url": "https://archive.org/download/army-techniques-publication-for-casualty-response-tactical-combat-casualty-care-/Army%20Techniques%20Publication%20for%20Casualty%20Response%2C%20Tactical%20Combat%20Casualty%20Care%20and%20First%20Aid%20-%20ATP%204-02.11%20(March%202026).pdf",
+      "archiveUrl": "https://archive.org/details/army-techniques-publication-for-casualty-response-tactical-combat-casualty-care-",
+      "publicationDate": "2026-03-23",
+      "changeDate": null,
+      "editionLabel": "23 March 2026",
+      "verificationUrl": "https://www.army.mil/article/291504",
+      "md5": "dd8a4bd58f231c4ca9ccf5d9ac3c5699"
+    },
+    {
+      "title": "FM 7-0 — Training (2021)",
+      "id": "f47dafe3cb44c0ba",
+      "url": "https://archive.org/download/training-fm-7-0/Training%20-%20FM%207-0.pdf",
+      "archiveUrl": "https://archive.org/details/training-fm-7-0",
+      "publicationDate": "2021-06-14",
+      "changeDate": null,
+      "editionLabel": "14 June 2021",
+      "verificationUrl": "https://armypubs.army.mil/ProductMaps/PubForm/Details.aspx?PUB_ID=1022335",
+      "md5": "f47dafe3cb44c0bad9b37d3efbe512b7"
+    },
+    {
+      "title": "FM 3-84 — Legal Support to Operations (2023)",
+      "id": "33bb774d2d275a35",
+      "url": "https://archive.org/download/2023-2024-us-army-fm/ARN39171-FM_3-84-000-WEB-1.pdf",
+      "archiveUrl": "https://archive.org/details/2023-2024-us-army-fm",
+      "publicationDate": "2023-09-01",
+      "changeDate": null,
+      "editionLabel": "1 September 2023",
+      "verificationUrl": "https://armypubs.army.mil/ProductMaps/PubForm/FM.aspx",
+      "md5": "33bb774d2d275a3549dd543bef99ff2b"
+    },
+    {
+      "title": "FM 3-98 — Reconnaissance and Security Operations (2023)",
+      "id": "5df3d9e3944fbe67",
+      "url": "https://archive.org/download/2023-2024-us-army-fm/ARN37194-FM_3-98-000-WEB-1.pdf",
+      "archiveUrl": "https://archive.org/details/2023-2024-us-army-fm",
+      "publicationDate": "2023-01-10",
+      "changeDate": null,
+      "editionLabel": "10 January 2023",
+      "verificationUrl": "https://armypubs.army.mil/ProductMaps/PubForm/FM.aspx",
+      "md5": "5df3d9e3944fbe67d1b833a8f09f7fc1"
+    },
+    {
+      "title": "FM 1-02.2 — Military Symbols (2025, Change 1)",
+      "id": "f01cb8bd3de956bc",
+      "url": "https://archive.org/download/military-symbols-fm-1-02.2/Military%20Symbols%20-%20FM%201-02.2.pdf",
+      "archiveUrl": "https://archive.org/details/military-symbols-fm-1-02.2",
+      "publicationDate": "2025-01-23",
+      "changeDate": "2025-08-13",
+      "editionLabel": "23 January 2025 · Change 1, 13 August 2025",
+      "verificationUrl": "https://armypubs.army.mil/ProductMaps/PubForm/Details.aspx?PUB_ID=1030416",
+      "md5": "f01cb8bd3de956bc6dadeecb7d463571"
+    }
+  ]
+}

@@ -1,1 +1,1 @@
-Place individual PDFs in this folder. Filenames and readUrl entries in ../library-catalog.json must match, including case. The included files are optimized copies; your originals were not changed.
+Each asset in this folder contains one PDF. Some are losslessly gzip-packed (.pdf.gz) and decoded by the reader in your browser. Ordinary .pdf files are also supported. Match the readUrl and gzip fields in ../library-catalog.json, including filename case. Originals were not changed.
